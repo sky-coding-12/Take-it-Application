@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "362730706212",
+    "project_id": "final-take-it-final-take-it",
+    "storage_bucket": "final-take-it-final-take-it.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362730706212:android:301d89e5f138b365dbcfb1",
+        "android_client_info": {
+          "package_name": "com.example.final_take_it_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362730706212-506nk7pod5uile61aflhtr4l41q7nf7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.final_take_it_final",
+            "certificate_hash": "9f353bba18948b9eb533aa02f9b2944fee5c4b96"
+          }
+        },
+        {
+          "client_id": "362730706212-vod929iolkvjjbscfds6h95jk2auosrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8kvvulHHmGyzUlFG7E7KsAcxY1a8dSCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362730706212-vod929iolkvjjbscfds6h95jk2auosrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
