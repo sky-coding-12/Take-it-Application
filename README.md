@@ -1,16 +1,12 @@
-# final_take_it_final
+# Udhaari Application
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-> The app uses a QR code left at the store to log Udhaar
+transactions.
+-> Business owners can request loans from banks based on
+the transactions they record using this app.
+-> Flutter application development and Java Spring Boot
+backend development were the two areas I worked on.
+-> used Firebase and MySQL to store data.
+-> Utilizing Spring Boot, which is utilized at the app level,
+creates Rest APIs.
+-> Railway Cloud backend has been deployed.
